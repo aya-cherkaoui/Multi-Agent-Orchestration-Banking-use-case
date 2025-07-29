@@ -64,4 +64,6 @@ In this lab, you will build a complete Agentic AI solution for GFM Bank using wa
 1. ConnecttowatsonxOrchestrate
 2. CreatetheGFMTellerAgent
 3. CreatetheGFMBackofficeAgent
-4. CreatetheGFMProductInformationAgent 5. CreatetheGFMBankOrchestratorAgent 6. Testthecompletesolution
+4. CreatetheGFMProductInformationAgent
+5. CreatetheGFMBankOrchestratorAgent
+6. Testthecompletesolution
